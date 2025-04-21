@@ -1,2 +1,3 @@
-There are two different analysis file. Churn analysis is based on the customer data. Microbiome analysis is based on microbial abundance data which contain different kind of dataset
-Datasets was downloaded from keaggle but dataset contain specific pubmedid number so they come from literatures
+There are two different analysis files. Churn analysis is based on customer data. Many analysis is applied to it, and machine learning models are established to predict the churn probability of customers
+Microbiome analysis is based on microbial abundance data, which contains different kinds of datasets
+Datasets were downloaded from Kaggle, but the datasets contain specific PubMed id number, so they come from literature
