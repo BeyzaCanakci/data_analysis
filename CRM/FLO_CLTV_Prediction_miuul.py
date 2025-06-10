@@ -83,7 +83,7 @@ pd.set_option('display.float_format', lambda x: '%.4f' % x)
 def load_data(file_path):
     df = pd.read_csv(file_path)
     return df
-file_path = '/Users/beyzacanakci/Desktop/miuul/FLOCLTVPrediction/flo_data_20k.csv'
+file_path = '/Users/beyza/Desktop/miuul/FLOCLTVPrediction/flo_data_20k.csv'
 df_ = load_data(file_path)
 df = df_.copy()
 df.head()
