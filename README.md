@@ -71,7 +71,7 @@ jupyter notebook Future_Engineering/Churn_analysis.ipynb
 
 ## Microbiome Analysis Project
 
-**File:** `Microbiome_Analysis_Project/bootcamp_microbiome_analysis.ipynb`
+**File:** `Microbiome_Analysis_Project/Microbiome_Analysis.ipynb`
 
 In this project, microbiome composition is examined through data analysis and visualization steps using a microbiome dataset.
 
