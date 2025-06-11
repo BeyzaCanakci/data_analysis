@@ -83,7 +83,7 @@ In this project, microbiome composition is examined through data analysis and vi
 **Run:**
 Open and run the notebook using Jupyter Notebook:
 ```bash
-jupyter notebook Microbiome_Analysis_Project/bootcamp_microbiome_analysis.ipynb
+jupyter notebook Microbiome_Analysis_Project/Microbiome_Analysis.ipynb
 ```
 
 ---
