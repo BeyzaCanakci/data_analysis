@@ -87,9 +87,6 @@ If you use this notebook as part of your research, please cite this repository:
 }
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 ## Contact
 
