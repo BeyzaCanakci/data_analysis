@@ -50,7 +50,7 @@ The notebook covers the following topics:
   - matplotlib  
   - seaborn  
   - scikit-learn  
-  - [Add any other libraries used in your notebook, e.g., QIIME2, scikit-bio, etc.]
+  
 
 ### Installation
 
