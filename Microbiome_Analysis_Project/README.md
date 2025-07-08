@@ -3,7 +3,8 @@
 
 ## Overview
 
-This repository contains a comprehensive Jupyter Notebook, `microbiome_analysis.ipynb`, which demonstrates microbiome data analysis techniques. The notebook is designed as a practical guide for bootcamp participants, students, and researchers interested in learning key concepts and workflows in microbiome data science. This analysis is part of the #streamlit, repository so you can go https://github.com/BeyzaCanakci/streamlit and start the streamlit app 
+This repository contains a comprehensive Jupyter Notebook, `microbiome_analysis.ipynb`, which demonstrates microbiome data analysis techniques. The notebook is designed as a practical guide for bootcamp participants, students, and researchers interested in learning key concepts and workflows in microbiome data science. 
+## This analysis is part of the streamlit, repository so you can go https://github.com/BeyzaCanakci/streamlit and start the streamlit app 
 
 ## File Structure
 
