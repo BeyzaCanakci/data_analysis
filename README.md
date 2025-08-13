@@ -6,7 +6,7 @@ This repository contains various data analysis and machine learning projects. Th
 ## Contents
 
 - [Diabetes Feature Engineering & Prediction](#diabetes-feature-engineering--prediction)
-- [Churn Analysis](#churn-analysis)
+- [Churn Analysis with Future Engineering](#churn-analysis)
 
 
 ---
