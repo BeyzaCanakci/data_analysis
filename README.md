@@ -1,6 +1,6 @@
 # Data Analysis Projects
 
-This repository contains various data analysis and machine learning projects. The projects are developed using Python and Jupyter Notebook, covering essential data science steps such as data preprocessing, feature engineering, modeling, and evaluation. I can not share the datasets of projects because of the privacy of the bootcamp
+This repository contains various data analysis and machine learning projects. The projects are developed using Python and Jupyter Notebook, covering essential data science steps such as data preprocessing, feature engineering, modeling, and evaluation. I can not share the datasets of projects because of privacy.
 
 ## Contents
 
