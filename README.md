@@ -1,13 +1,11 @@
-
 # Data Analysis Projects
 
-This repository contains various data analysis and machine learning projects. The projects are developed using Python and Jupyter Notebook, covering essential data science steps such as data preprocessing, feature engineering, prediction, and analysis. I can not share the dataset because of the privacy of the bootcamp
+This repository contains various data analysis and machine learning projects. The projects are developed using Python and Jupyter Notebook, covering essential data science steps such as data preprocessing, feature engineering, modeling, and evaluation. I can not share the datasets of projects because of the privacy of the bootcamp
 
 ## Contents
 
-- [Diabetes Feature Engineering & Prediction]
-- [Churn Analysis with Future Engineering]
-
+- [Diabetes Feature Engineering & Prediction](#diabetes-feature-engineering--prediction)
+- [Churn Analysis with Feature Engineering](#churn-analysis-with-feature-engineering)
 
 ---
 
@@ -29,7 +27,7 @@ python Diabetes_Feature_Engineering/Diabetes_data_analysis_and_prediction.py
 
 ---
 
-## Churn Analysis with Future Engineering
+## Churn Analysis with Feature Engineering
 
 **File:** `Future_Engineering/Churn_analysis.ipynb`
 
@@ -46,8 +44,6 @@ Open and run the notebook using Jupyter Notebook:
 ```bash
 jupyter notebook Future_Engineering/Churn_analysis.ipynb
 ```
-
----
 
 ---
 
@@ -73,4 +69,3 @@ To contribute, please fork the repository and submit your changes via a pull req
 
 Feel free to contact if you have any questions!
 
----
