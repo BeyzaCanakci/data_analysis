@@ -1,7 +1,7 @@
 
 # Churn Analysis
 
-This repository contains a Jupyter Notebook for analyzing customer churn. The main objective of this project is to understand the reasons behind customer churn and to develop predictive models to identify customers who are likely to leave. I can not sare the dataset because of the privacy of the bootcamp.
+This repository contains a Jupyter Notebook for analyzing customer churn. The main objective of this project is to understand the reasons behind customer churn and to develop predictive models to identify customers who are likely to leave. I can not sare the dataset because of privacy.
 
 ## Contents
 
